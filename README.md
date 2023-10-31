@@ -10,7 +10,7 @@ Contact:
 
 Marcelo "Xinous" Pessoa
 [marcelo.xxns@gmail.com]
-[[GitHub profile link](https://xinous.carrd.co/)]
+[(https://xinous.carrd.co/)]
 
 
 Disclaimer

@@ -1,6 +1,6 @@
 #English
 
-The files in this repository are for the game Shadows and Sanctity, which is used for non-profit purposes and is part of my portfolio as a beginner game developer. It is available to play on the web at the link: [[link to the game](https://xinous.itch.io/shadows-and-sanctity)]
+The files in this repository are for the game Shadows and Sanctity, which is used for non-profit purposes and is part of my portfolio as a beginner game developer. It is available to play on the web at the link: [[Itch.io](https://xinous.itch.io/shadows-and-sanctity)]
 
 The audio files were made by myself, Marcelo "Xinous" Pessoa, or taken from free banks on the internet.
 
@@ -24,7 +24,7 @@ All copyrights to this game belong to the developer. It is prohibited to redistr
 
 #Portuguese
 
-Os arquivos deste repositório são referentes ao jogo Shadows and Sanctity, que é usado sem fins lucrativos e faz parte do meu portfólio como Game Dev iniciante. Ele está disponível para jogar na web pelo link: [[link para o jogo](https://xinous.itch.io/shadows-and-sanctity)]
+Os arquivos deste repositório são referentes ao jogo Shadows and Sanctity, que é usado sem fins lucrativos e faz parte do meu portfólio como Game Dev iniciante. Ele está disponível para jogar na web pelo link: [[Itch.io](https://xinous.itch.io/shadows-and-sanctity)]
 
 Os arquivos de áudio foram feitos por mim mesmo, Marcelo "Xinous" Pessoa, ou tirados de bancos gratuitos da internet.
 
